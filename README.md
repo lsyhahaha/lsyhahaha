@@ -3,7 +3,7 @@
 ![今日诗词](https://v2.jinrishici.com/one.svg)
 
 ##### [b站传送门](https://space.bilibili.com/477763670?spm_id_from=333.1007.0.0)         [BLOG传送门](https://lsyhahaha.github.io/)
-##### [微信]()
+##### [我的微信](https://raw.githubusercontent.com/lsyhahaha/lsyhahaha/main/img/mmqrcode1644127195171.png)
 ### 🎨 Latest blogs
 
 ![](https://cn.bing.com/th?id=OHR.MexicoMonarchs_ROW1618920762_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
