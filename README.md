@@ -23,16 +23,12 @@
 [![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Markdown-inactive?style=flat-square&logo=Markdown&logoColor=ffffff)](https://markdown-here.com)
 
-[![IMAGE ALT TEXT HERE](http://i.imgur.com/7YTMFQp.png)](https://www.youtube.com/watch?v=PM9_E17ZSPM)
 
 <!DOCTYPE html>
 <html>
-<body>
-
-<audio controls>
-  <source src="horse.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
-
-</body>
+    <body>
+        <audio autoplay="autoplay" loop="loop" controls="controls">
+            <source src="./music/start.mp3"type="audio/mpeg">
+        </audio>
+    </body>
 </html>
