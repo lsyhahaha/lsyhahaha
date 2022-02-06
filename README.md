@@ -13,10 +13,10 @@
 
 [>>> More](https://java8.ml/archives/)
 
-[![](https://pica.zhimg.com/v2-3085ae6350bfb6f350466665da879630_1440w.jpg?source=172ae18b)](https://spark.apache.org/)
-[![](https://hadoop.apache.org/elephant.png)](http://hadoop.apache.org/)
+[![](https://img.shields.io/badge/徽标学习-green.svg)](https://www.cnblogs.com/sddai/p/13779316.html)
+[![](https://img.shields.io/badge/spark-red.svg)](https://spark.apache.org/)
+
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-C-inactive?style=flat-square&logo=C&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Markdown-inactive?style=flat-square&logo=Markdown&logoColor=ffffff)](https://markdown-here.com)
-
