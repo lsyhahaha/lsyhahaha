@@ -5,11 +5,13 @@
 ##### [b站传送门](https://space.bilibili.com/477763670?spm_id_from=333.1007.0.0)         
 ##### [BLOG传送门](https://lsyhahaha.github.io/)
 ##### 🎨 微信
-![](https://raw.githubusercontent.com/lsyhahaha/lsyhahaha/main/img/mmqrcode1644127195171.png)
+
+<img height="200" src="https://raw.githubusercontent.com/lsyhahaha/lsyhahaha/main/img/mmqrcode1644127195171.png" width="200"/>
+
 ### 🎨 Latest blogs
 
-![](https://cn.bing.com/th?id=OHR.MexicoMonarchs_ROW1618920762_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-![info](https://github-readme-stats.vercel.app/api?username=lsyhahaha&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+<img height="90" src="https://cn.bing.com/th?id=OHR.MexicoMonarchs_ROW1618920762_1920x1080.jpg&amp;amp;amp;amp;rf=LaDigue_1920x1080.jpg&amp;amp;amp;amp;pid=hp" width="160"/>
+<img alt="info" height="90" src="https://github-readme-stats.vercel.app/api?username=lsyhahaha&amp;amp;show_icons=true&amp;amp;count_private=true&amp;amp;hide=prs&amp;amp;theme=default_repocard" width="160"/>
 
 [>>> More](https://java8.ml/archives/)
 
@@ -20,6 +22,3 @@
 [![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Markdown-inactive?style=flat-square&logo=Markdown&logoColor=ffffff)](https://markdown-here.com)
 
-<video width="480" height="400" controls>
-    <source src="http://pic.jmsu.top/sunnerd.mp4" type="video/mp4">
-</video>
