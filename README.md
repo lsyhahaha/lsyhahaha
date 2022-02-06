@@ -6,7 +6,7 @@
 ##### [BLOG传送门](https://lsyhahaha.github.io/)
 ##### 🎨 微信
 
-<img height="" src="https://raw.githubusercontent.com/lsyhahaha/lsyhahaha/main/img/mmqrcode1644127195171.png" width=""/>
+<img height="200" src="https://raw.githubusercontent.com/lsyhahaha/lsyhahaha/main/img/mmqrcode1644127195171.png" width="200"/>
 
 ### 🎨 Latest blogs
 
