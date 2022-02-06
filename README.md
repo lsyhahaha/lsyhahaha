@@ -22,18 +22,12 @@
 [![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Markdown-inactive?style=flat-square&logo=Markdown&logoColor=ffffff)](https://markdown-here.com)
 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>音乐播放</title>
 </head>
 <body>
-<h1>音乐播放</h1>
-<p>测试下<a href="http://www.baidu.com">百度</a></p>
-<p id="demo">地址</p>
-<input id="btn" type="button" onclick="playmp3()" value="开始"/>
 <audio id="audio1" controls="controls">
     <!--    <source src="富士山下.mp3" type="audio/ogg">-->
     <source src="C:\Users\98708\Desktop\lsyhahaha\music\start.mp3" type="audio/ogg">
@@ -56,5 +50,6 @@
         }
     }
 </script>
+
 
 
