@@ -11,7 +11,6 @@
 ### 🎨 Latest blogs
 
 <img src="https://cn.bing.com/th?id=OHR.MexicoMonarchs_ROW1618920762_1920x1080.jpg&amp;amp;amp;amp;amp;amp;rf=LaDigue_1920x1080.jpg&amp;amp;amp;amp;amp;amp;pid=hp" width="160" height="90"/>
-<img src="">
 <img alt="info" height="" src="https://github-readme-stats.vercel.app/api?username=lsyhahaha&amp;amp;show_icons=true&amp;amp;count_private=true&amp;amp;hide=prs&amp;amp;theme=default_repocard" width=""/>
 
 [>>> More](https://java8.ml/archives/)
@@ -25,8 +24,37 @@
 
 
 <!DOCTYPE html>
-<html>
-    <body>
-        <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=0&id=4894218883&auto=1&height=430"></iframe>
-    </body>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>音乐播放</title>
+</head>
+<body>
+<h1>音乐播放</h1>
+<p>测试下<a href="http://www.baidu.com">百度</a></p>
+<p id="demo">地址</p>
+<input id="btn" type="button" onclick="playmp3()" value="开始"/>
+<audio id="audio1" controls="controls">
+    <!--    <source src="富士山下.mp3" type="audio/ogg">-->
+    <source src="C:\Users\98708\Desktop\lsyhahaha\music\start.mp3" type="audio/ogg">
+    Your browser does not support the audio tag.
+</audio>
+</body>
 </html>
+<script>
+    var audio = document.getElementById('audio1');
+    var btn1 = document.getElementById('btn');
+    playmp3 = function () {
+        if (audio !== null) {
+            if (audio.paused) {
+                btn1.value = "暂停";
+                audio.play();
+            } else {
+                btn1.value = "开始";
+                audio.pause();
+            }
+        }
+    }
+</script>
+
+
