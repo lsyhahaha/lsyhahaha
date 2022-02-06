@@ -20,3 +20,37 @@
 [![](https://img.shields.io/badge/-C-inactive?style=flat-square&logo=C&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Markdown-inactive?style=flat-square&logo=Markdown&logoColor=ffffff)](https://markdown-here.com)
+
+<video width="480" height="400" controls>     <source src="https://c.y.qq.com/base/fcgi-bin/u?__=6CfbC14s" type="audio/mp3"> </video>
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+    <audio muted loop src="./video/青蛙 - 小跳蛙.mp3" controls="controls" autoplay="autoplay" ></audio>
+    <script>
+      
+        function toggleSound(){
+            var audio = document.querySelector('audio')
+            if (audio.paused) {
+              
+                audio.play();
+            }else{
+                audio.paused = false
+            }
+        }
+
+        setInterval(toggleSound(), 1000)
+    </script>
+</body>
+
+</html>
+```
