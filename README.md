@@ -10,7 +10,7 @@
 
 ### 🎨 Latest blogs
 
-<img height="90" src="https://cn.bing.com/th?id=OHR.MexicoMonarchs_ROW1618920762_1920x1080.jpg&amp;amp;amp;amp;rf=LaDigue_1920x1080.jpg&amp;amp;amp;amp;pid=hp" width="160"/>
+<img height="180" src="https://cn.bing.com/th?id=OHR.MexicoMonarchs_ROW1618920762_1920x1080.jpg&amp;amp;amp;amp;amp;rf=LaDigue_1920x1080.jpg&amp;amp;amp;amp;amp;pid=hp" width="320"/>
 <img alt="info" height="90" src="https://github-readme-stats.vercel.app/api?username=lsyhahaha&amp;amp;show_icons=true&amp;amp;count_private=true&amp;amp;hide=prs&amp;amp;theme=default_repocard" width="160"/>
 
 [>>> More](https://java8.ml/archives/)
