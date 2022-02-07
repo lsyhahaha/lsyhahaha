@@ -21,36 +21,3 @@
 [![](https://img.shields.io/badge/-C-inactive?style=flat-square&logo=C&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Markdown-inactive?style=flat-square&logo=Markdown&logoColor=ffffff)](https://markdown-here.com)
-
-
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-</head>
-<body>
-<audio id="audio1" controls="controls">
-    <!--    <source src="富士山下.mp3" type="audio/ogg">-->
-    <source src="C:\Users\98708\Desktop\lsyhahaha\music\start.mp3" type="audio/ogg">
-</audio>
-</body>
-</html>
-<script>
-    var audio = document.getElementById('audio1');
-    var btn1 = document.getElementById('btn');
-    playmp3 = function () {
-        if (audio !== null) {
-            if (audio.paused) {
-                btn1.value = "暂停";
-                audio.play();
-            } else {
-                btn1.value = "开始";
-                audio.pause();
-            }
-        }
-    }
-</script>
-
-
