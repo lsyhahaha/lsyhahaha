@@ -4,9 +4,6 @@
 
 ##### [b站传送门](https://space.bilibili.com/477763670?spm_id_from=333.1007.0.0)         
 ##### [BLOG传送门](https://lsyhahaha.github.io/)
-##### 🎨 微信
-
-<img height="200" src="https://raw.githubusercontent.com/lsyhahaha/lsyhahaha/main/img/mmqrcode1644127195171.png" width="200"/>
 
 ### 🎨 Latest blogs
 
